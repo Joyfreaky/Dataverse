@@ -1,0 +1,7 @@
+{"The hostRequirements section specifies the minimum requirements for the host machine. In this case, the host machine must have at least 4 CPUs. 
+The waitFor section specifies the command to run before the container is created. 
+The updateContentCommand section specifies the command to run to update the container. 
+The postCreateCommand section specifies the command to run after the container is created. 
+The customizations section specifies the extensions to install in the container."
+}
+
